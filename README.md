@@ -1,16 +1,24 @@
-<!--
-**juliusliu02/juliusliu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Julius 👋
 
-Here are some ideas to get you started:
+I build full-stack tools and AI agents — mostly in TypeScript and Python.
+Most of my projects started as something I wished existed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+currently:  Software Developer co-op @ Nokia, Ottawa
+focused on: End-to-end feature delivery & AI evaluation pipelines
+studying:   Computer Programming @ Algonquin College (graduating August 2026)
+learning:   Distributed Systems & Agentic AI
+```
 
-![juliusliu02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliusliu02&theme=vue&show_icons=true&hide_border=true&layout=compact)
+## What I'm building
+
+- 🪶 **[Exprès](https://github.com/juliusliu02/expres)** — AI writing-feedback platform on a serverless stack
+- 🧪 **[vscode-containerlab](https://github.com/juliusliu02/vscode-containerlab)** — VS Code extension for network labs
+
+## Toolbox
+
+TypeScript · React · Next.js · Python · FastAPI · Postgres · Docker · Cloudflare Workers · Langfuse · MCP
+
+---
+
+**Find me:** [juliusliu.dev](https://juliusliu.dev)
