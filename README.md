@@ -12,7 +12,7 @@ learning:   Distributed Systems & Agentic AI
 
 ## What I'm building
 
-- 🪶 **[Exprès](https://github.com/juliusliu02/expres)** — AI writing-feedback platform on a serverless stack
+- 🪶 **[Morph](https://github.com/juliusliu02/morph)** — AI writing-feedback platform built with React, Next.js
 - 🧪 **[vscode-containerlab](https://github.com/juliusliu02/vscode-containerlab)** — VS Code extension for network labs
 
 ## Toolbox
